@@ -2,7 +2,7 @@
 
 ![Dashboard Page 1](/Images/Project%201%20Page%201.png)
 
-[Download Interactive dashboard here on the Power BI Service]
+[Download Interactive dashboard here]
 (https://github.com/adilbinkhalid2209-beep/Power-BI-Dashboards/raw/main/Data_Jobs_Dashboard.pbix)
 
 ## Introduction
